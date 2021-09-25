@@ -1,0 +1,90 @@
+[
+    {
+      "key":"F10",
+      "name":"Ferrari F8 Tributo",
+      "img":"https://2p2bboli8d61fqhjiqzb8p1a-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/laferrari-2-680x420.jpg",
+      "price":48400000,
+      "stock":4,
+      "horsepower":"510 hp"
+    },
+    {
+      "key":"L1",
+      "name":"lamorgihini",
+      "img":"https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/augmented-reality/huracan/huracan_evo/H-EVO_3.png",
+      "price":500000,
+      "stock":89,
+      "horsepower":"769 horsepower"
+    },
+    {
+      "key":"A2",
+      "name":"Alpine A110",
+      "img":"https://squir.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/p/apline_a110_cup_2018_0000.jpg",
+      "price":70000,
+      "stock":55,
+      "horsepower":"252 PS"
+    },
+    {
+      "key":"P3",
+      "name":"porsche 718 boxster",
+      "img":"https://images.hgmsites.net/hug/porsche-718_100704480_h.jpg",
+      "price":59000,
+      "stock":23,
+      "horsepower":"300 horsepower"
+    },
+    {
+      "key":"B4",
+      "name":"BMW M3",
+      "img":"https://www.byri.net/wp-content/uploads/2021/06/BMW-M3-competition-Manhart-offers-him-635-horsepower.jpg",
+      "price":69000,
+      "stock":33,
+      "horsepower":"473 hp"
+    },
+    {
+      "key":"M5",
+      "name":"McLaren 720S",
+      "img":"https://cdn.carbuzz.com/gallery-images/840x560/543000/500/543539.jpg",
+      "price":299000,
+      "stock":9,
+      "horsepower":"710 horsepower"
+    },
+    {
+      "key":"T6",
+      "name":"Toyota GR Supra",
+      "img":"https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2020/02/2021-GR-Supra-Family_004-scaled.jpg",
+      "price":43050,
+      "stock":23,
+      "horsepower":"335-hp"
+    },
+    {
+      "key":"F7",
+      "name":"Ford Mustang",
+      "img":"https://i.pinimg.com/originals/53/25/0c/53250c2731ec42e3e6b9dd70a98a0208.jpg",
+      "price":27500,
+      "stock":67,
+      "horsepower":"315 hp"
+    },
+    {
+      "key":"N8",
+      "name":"Nissan GT-R",
+      "img":"https://stimg.cardekho.com/images/carexteriorimages/930x620/Nissan/Nissan-GTR/744/front-left-side-47.jpg",
+      "price":113540,
+      "stock":28,
+      "horsepower":"565 HORSES"
+    },
+    {
+      "key":"M9",
+      "name":"Mazda MX-5",
+      "img":"https://images.ctfassets.net/c9t6u0qhbv9e/2019MazdaMX5MiataTestDriveReviewsummary/4510cf70aafcba5aa25bc425978c143c/2019_Mazda_MX-5_Miata_Test_Drive_Review_summaryImage.jpeg",
+      "price":26000,
+      "stock":71,
+      "horsepower":"181 hp"
+    },
+    {
+      "key":"R11",
+      "name":"Rolls-royce Phantom",
+      "img":"https://img.etimg.com/thumb/msid-78700683,width-650,imgsize-185472,,resizemode-4,quality-100/for-an-automaker-selling-the-ultimate-in-luxury-call-that-the-perfect-pitch-.jpg",
+      "price":463350,
+      "stock":7,
+      "horsepower":"563 horsepower"
+    }
+  ]

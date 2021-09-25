@@ -1,0 +1,8 @@
+.card img{
+    height: 200px;   
+}
+.add-btn{
+    color: goldenrod;
+    border: 2px solid goldenrod;
+    font-weight: 700;
+}
