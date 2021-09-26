@@ -8,7 +8,7 @@ const Car = (props) => {
             
   <div className="col">
     <div className="card" style={{
-      height:"460px"
+      height:"500px"
     }}>
       <img src={img} className="m-2" alt="..."/>
       <div className="card-body">
