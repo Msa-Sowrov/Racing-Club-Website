@@ -1,8 +1,15 @@
-.card img{
-    height: 200px;   
+.card{
+    background-color:rgba(0, 0, 0, 0.459);
+    color: white;
 }
 .add-btn{
-    color: goldenrod;
-    border: 2px solid goldenrod;
+    color: rgb(96, 60, 226);
+    border: 2px solid rgb(98, 88, 243);
     font-weight: 700;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 10px;
+}
+.add-btn :hover {
+    color: white;
 }

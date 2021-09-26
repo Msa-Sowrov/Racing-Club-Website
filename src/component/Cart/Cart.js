@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Cart.css'
 const Cart = (props) => {
 
   const {cart}= props;
@@ -9,13 +9,14 @@ for(const pro of cart){
 }
 
     return (
-        <div>
-          <h4>product list: </h4>
+        <div className="cart">
+          <h2 className="text-center">Your Cart</h2>
+          <h4>Car Added:{cart.length} </h4>
           <p><b>Total Price:</b> ${price}</p>
           {
             cart.map(car => <li>{car.name}</li> )
           }
-          <button>View Order</button>
+          <button className="cart-btn">View Order</button>
         </div>
     );
 };
