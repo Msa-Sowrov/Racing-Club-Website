@@ -12,7 +12,7 @@ const Car = (props) => {
     }}>
       <img src={img} className="m-2" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">{name}</h5>
+        <h4 className="card-title">{name}</h4>
         <p> <b>Power :</b> {horsepower}</p>
         <p> <b>Stock :</b> {stock} Unit available</p>
         <p> <b>Model :</b> {model}</p>

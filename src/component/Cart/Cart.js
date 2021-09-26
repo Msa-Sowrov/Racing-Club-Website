@@ -10,9 +10,8 @@ for(const pro of cart){
 
     return (
         <div className="cart">
-          <h2 className="text-center">Your Cart</h2>
           <h4>Car Added:{cart.length} </h4>
-          <p><b>Total Price:</b> ${price}</p>
+          <h5>Total Price: ${price}</h5>
           {
             cart.map(car => <li>{car.name}</li> )
           }
